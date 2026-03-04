@@ -1,7 +1,7 @@
-// Name: Abdul Ahad
-// Department: Electrical Engineering (AI)
-// Registration No: BF25NWELE0692
-// Section: B
+// Name: Anus Abbas Khan
+// Department: Electrical Engineering (power)
+// Registration No: BF25NWELE0723
+// Section: A
 
 
 
@@ -20,3 +20,4 @@ cout<<"you are not eligible";    //  PRINT KRNY K LYE
 
 return 0; // PROGRAM KO KHATAM KARNY K LYE
 }
+
