@@ -1,8 +1,7 @@
-// Name: Abdul Ahad
-// Department: Electrical Engineering (AI)
-// Registration No: BF25NWELE0692
-// Section: B
-
+// Name: Anus Abbas KHan
+// Department: Electrical Engineering (power)
+// Registration No: BF25NWELE0723
+// Section: A
 
     
     
@@ -26,4 +25,5 @@ int main()
     
     return 0;   // indicate that program ended successfully
     } // end function main
+
 
