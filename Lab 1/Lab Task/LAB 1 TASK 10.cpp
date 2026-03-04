@@ -1,8 +1,7 @@
-// Name: Abdul Ahad
+// Name: Anus Abbas KHan
 // Department: Electrical Engineering (AI)
-// Registration No: BF25NWELE0692
-// Section: B
-
+// Registration No: BF25NWELE0723
+// Section: A
 
 #include <iostream>
 using namespace std;
@@ -19,4 +18,5 @@ int main()
     
     return 0;   // indicate that program ended successfully
     } // end function main
+
 
