@@ -1,7 +1,7 @@
-// Name: Abdul Ahad
+// Name: Anus Abbas KHan
 // Department: Electrical Engineering (AI)
-// Registration No: BF25NWELE0692
-// Section: B
+// Registration No: BF25NWELE0723
+// Section: A
 
 
 
@@ -11,6 +11,7 @@ using namespace std; // allow standard names like "cout and cin" without std:
 // function main begins program execution
 int main()// it is sttarting point of program
     {
+
 
 
 
